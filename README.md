@@ -1,4 +1,5 @@
-[![MasterHead](https://i.ibb.co/FxtCB0R/banner.png)](https://github.com/anowarzz)
+<p align="center"> <img src="https://i.ibb.co/kB3bY3Y/github-cover.gif" />  </p> 
+
 
 
 
