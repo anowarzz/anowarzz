@@ -31,7 +31,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anowarzz&show_icons=true&locale=en&layout=compact" alt="anowarzz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anowarzz&show_icons=true&locale=en" alt="anowarzz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anowarzz&show_icons=true&locale=en" alt="anowarzz" /></p>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anowarzz&theme=monokai&border_radius=4.6)](https://git.io/streak-stats)
