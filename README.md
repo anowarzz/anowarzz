@@ -36,4 +36,4 @@
 </p>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anowarzz&theme=monokai&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anowarzz&theme=green-nur&border_radius=4.6)](https://git.io/streak-stats)
