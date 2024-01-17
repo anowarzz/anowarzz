@@ -32,6 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anowarzz&show_icons=true&locale=en" alt="anowarzz" />
 </p>
-<p> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anowarzz&theme=green-nur&border_radius=4.6)](https://git.io/streak-stats)
