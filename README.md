@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Javascript, React**
 
-- 📫 How to reach me **anowarhosen444@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Znsdhg0u7l7vScL46RVsWwa8g-7it7hh/view?usp=share_link](https://drive.google.com/file/d/1Znsdhg0u7l7vScL46RVsWwa8g-7it7hh/view?usp=share_link)
 
 - ⚡ Fun fact **I think am Cool**
