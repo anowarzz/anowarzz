@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Learning **Redux**
 
-- 👨‍💻 My Recent Project are available at [https://anowarzz.me]
+- 👨‍💻 My Recent Projects are available at https://anowarzz.me
 
 - 💬 Ask me about **Javascript, React**
 
