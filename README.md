@@ -43,4 +43,4 @@
 
 ![anowarzz's Stats](https://github-readme-stats.vercel.app/api?username=anowarzz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anowarzz&theme=green-nur&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anowarzz&theme=dark)](https://git.io/streak-stats)
