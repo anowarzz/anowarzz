@@ -41,7 +41,7 @@
 <h3 align="left">Tools:</h3>    
 
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=blue)
 
 
 ![anowarzz's Stats](https://github-readme-stats.vercel.app/api?username=anowarzz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
