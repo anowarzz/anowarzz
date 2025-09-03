@@ -2,10 +2,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Anowar Hosen</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=A+Web+Developer" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Md. Anowar Hosen</h1>
+<h3 align="center"> A Web Developer </h3>
 
 
 
@@ -13,9 +11,11 @@
 
 - 🌱 I’m currently Learning **Redux**
 
-- 👨‍💻 My Recent Projects are available at https://anowarzz.codes
+- 👨‍💻 My Recent Projects are available at https://anowarzz.vercel.app
 
-- 💬 Ask me about **Javascript, React**
+- 📧 Reach me at: [anowarhosen444@gmail.com](anowarhosen444@gmail.com)  
+
+- 💬 Ask me about **Javascript, React, Express Js**
 
  <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1Znsdhg0u7l7vScL46RVsWwa8g-7it7hh/view?usp=share_link](https://drive.google.com/file/d/1Znsdhg0u7l7vScL46RVsWwa8g-7it7hh/view?usp=share_link) -->
 
@@ -23,34 +23,30 @@
 - ⚡ Fun fact **I think am Cool**
                                                                         <br/>
                                                                         
-<h3 align="left">Frontend Technologies:</h3>
-
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![image](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
-![image](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-<h3 align="left">Backendend Technologies:</h3>
-
-![image](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![image](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-<h3 align="left">Tools:</h3>    
+## 🛠 Technologies I Use
 
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=blue)
-![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)|
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-3068F1?style=for-the-badge&logo=zod&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |                            |
 
 
-![anowarzz's Stats](https://github-readme-stats.vercel.app/api?username=anowarzz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+---
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=anowarzz&theme=telegram-gradient&hide_border=true)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anowarzz&theme=dark)](https://git.io/streak-stats)
+
+## 📊 MY GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarzz&layout=compact&theme=tokyonight" alt="Top Languages" weidth="150" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anowarzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+ <img src="https://streak-stats.demolab.com?user=anowarzz&theme=tokyonight" alt="GitHub Streak" />
+</p>  
+
+
+
