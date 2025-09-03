@@ -48,10 +48,12 @@
 
   <!-- Streak & GitHub Stats Side by Side -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://streak-stats.demolab.com?user=anowarzz&theme=merko" 
-         alt="GitHub Streak" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anowarzz&show_icons=true&theme=merko" 
+   <img src="https://github-readme-stats.vercel.app/api?username=anowarzz&show_icons=true&theme=merko" 
          alt="GitHub Stats" height="200" />
+   
+   <img src="https://streak-stats.demolab.com?user=anowarzz&theme=merko" 
+         alt="GitHub Streak" height="200" />
+ 
   </div>
 
 </div>
