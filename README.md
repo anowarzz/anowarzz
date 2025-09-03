@@ -41,12 +41,13 @@
 ## 📊 MY GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarzz&layout=compact&theme=tokyonight" alt="Top Languages" weidth="150" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarzz&layout=compact&theme=merko" alt="Top Languages" weidth="150" height="150"/>
 </p>
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://streak-stats.demolab.com?user=anowarzz&theme=merko" alt="GitHub Streak" height="200" />
- <img src="https://github-readme-stats.vercel.app/api?username=anowarzz&show_icons=true&theme=merko" alt="GitHub Stats" height="200" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=anowarzz&show_icons=true&theme=merko" alt="GitHub Stats" height="200" />
+</div>
+
 
 
 
