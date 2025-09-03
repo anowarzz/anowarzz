@@ -3,7 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Anowar Hosen</h1>
-<h3 align="center">A Web Developer</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&width=435&lines=A+Web+Developer" alt="Typing SVG" />
+</p>
+
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anowarzz&label=Profile%20views&color=0e75b6&style=flat" alt="anowarzz" /> -->
 
@@ -13,7 +17,7 @@
 
 - 💬 Ask me about **Javascript, React**
 
-- <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1Znsdhg0u7l7vScL46RVsWwa8g-7it7hh/view?usp=share_link](https://drive.google.com/file/d/1Znsdhg0u7l7vScL46RVsWwa8g-7it7hh/view?usp=share_link) -->
+ <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1Znsdhg0u7l7vScL46RVsWwa8g-7it7hh/view?usp=share_link](https://drive.google.com/file/d/1Znsdhg0u7l7vScL46RVsWwa8g-7it7hh/view?usp=share_link) -->
 
 
 - ⚡ Fun fact **I think am Cool**
@@ -28,6 +32,7 @@
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![image](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![image](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 <h3 align="left">Backendend Technologies:</h3>
 
@@ -42,6 +47,7 @@
 
 ![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=blue)
+![image](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 
 ![anowarzz's Stats](https://github-readme-stats.vercel.app/api?username=anowarzz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
