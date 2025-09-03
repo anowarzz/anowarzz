@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co/kB3bY3Y/github-cover.gif" />  </p> 
+<p align="center"> <img src="https://i.ibb.co/kB3bY3Y/github-cover.gif" height="300"/>  </p> 
 
 
 
@@ -44,8 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anowarzz&layout=compact&theme=tokyonight" alt="Top Languages" weidth="150" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anowarzz&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
- <img src="https://streak-stats.demolab.com?user=anowarzz&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=anowarzz&theme=merko" alt="GitHub Streak" height="200" />
+ <img src="https://github-readme-stats.vercel.app/api?username=anowarzz&show_icons=true&theme=merko" alt="GitHub Stats" height="200" />
 </p>  
 
 
