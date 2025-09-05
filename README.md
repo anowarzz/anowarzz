@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.ibb.co/kB3bY3Y/github-cover.gif" height="300"/>  </p> 
+<p align="center"> <img src="https://res.cloudinary.com/dkndlqam0/image/upload/v1757091738/my-images/MD._ANOWAR_HOSEN_rugvfr.png" height="350"/>  </p> 
 
 
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently Learning **Next Js**
 
-- 👨‍💻 My Recent Projects are available at https://anowarzz.vercel.app
+- 👨‍💻 My Recent Projects are available at https://anowarzz.codes
 
 - 📧 Reach me at: [anowarhosen444@gmail.com](anowarhosen444@gmail.com)  
 
@@ -21,9 +21,16 @@
 
 
 - ⚡ Fun fact **I think am Cool**
-                                                                        <br/>
-                                                                        
+   <br/>
+   <br/>
+   
+## 👋 About Me
 
+Hi ,  I’m Anowar — I completed my MBA from National University Of Bangladesh recently , but my true passion lies in technology. I love building web applications, learning new technologies, and creating solutions that actually work. I enjoy working with TypeScript for safer code, exploring different databases like MongoDB and PostgreSQL, and experimenting with tools that make development faster and more fun.
+. Coding for me is more than a skill; it’s a way to create, solve problems, and bring ideas to life. When I’m not building apps, I enjoy learning new technologies and finding creative ways to make projects better.
+
+
+<br/>
 
 ## 🛠 Technologies I Use
 
