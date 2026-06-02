@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently Learning **Next Js**
 
-- 👨‍💻 My Recent Projects are available at https://anowarzz.codes
+- 👨‍💻 My Recent Projects are available at https://anowarzz.vercel.app
 
 - 📧 Reach me at: [anowarhosen444@gmail.com](anowarhosen444@gmail.com)  
 
