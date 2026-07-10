@@ -9,7 +9,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anowarzz&label=Profile%20views&color=0e75b6&style=flat" alt="anowarzz" /> -->
 
-- 🌱 I’m currently Learning **Next Js**
+- 🌱 I’m currently Learning **Microservice Architecrues**
 
 - 👨‍💻 My Recent Projects are available at https://anowarzz.vercel.app
 
